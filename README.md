@@ -2,7 +2,12 @@
 This react is to help with optimize the reporting process for the [coronastatus](https://github.com/BustByte/coronastatus) project.
 
 
+## EJS variables
+EJS variables are passed to the the react app using the `window`. For an example see `public/index.html`. Each one is set globally so it can be consumed in the app like this: `window.i86n['Important']`.
 
+
+## Translation status
+So far all of the translations used in coronastatus-form are supported by coronastatus except for 'Back' and 'Next'.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

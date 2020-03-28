@@ -100,7 +100,7 @@ function Demographic(props) {
         />
 
         <br />
-        <button className="btn btn-blue m-2 center" onClick={()=>props.nextPage()}>Next</button>
+        <button className="btn btn-blue m-2 center" onClick={()=>props.nextPage()}>{window.i86n['Next']}</button>
       </div>
     </div>
   );

@@ -5,7 +5,7 @@ function Quarantine(props) {
   return (
     <div className="FormPage">
       Quarantine Page 
-      <button onClick={() => props.nextPage()}>Next</button>
+      <button onClick={() => props.nextPage()}>{window.i86n['Next']}</button>
     </div>
   );
 }

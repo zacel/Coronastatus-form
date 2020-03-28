@@ -39,7 +39,7 @@ function App() {
 
   function showBack() {
     if (currentPage > 0) {
-      return <button onClick={() => previousPage()}>Back</button>;
+      return <button onClick={() => previousPage()}>{window.i86n['Back']}</button>;
     } else {
       return "";
     }
