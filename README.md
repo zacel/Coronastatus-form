@@ -1,3 +1,10 @@
+# coronastatus-form
+This react is to help with optimize the reporting process for the [coronastatus](https://github.com/BustByte/coronastatus) project.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
