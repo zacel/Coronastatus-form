@@ -1,3 +1,8 @@
+### Depreciated, this is project has been replaced by one directly withing the coronastatus project. 
+
+Now this is just a template for a react based paginated form
+
+
 # coronastatus-form
 This react is to help with optimize the reporting process for the [coronastatus](https://github.com/BustByte/coronastatus) project.
 
